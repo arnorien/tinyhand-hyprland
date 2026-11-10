@@ -1,0 +1,8 @@
+# Local clone of the original project, used as a reference
+upstream/
+
+__pycache__/
+*.pyc
+
+# Local test scripts and logs
+tests/
